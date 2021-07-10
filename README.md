@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href="https://jgsheppard92.medium.com/contributing-to-my-first-open-source-project-after-graduating-from-a-boot-camp-8247956bd892" target="blank">Contributing to My First Open Source Project After Graduating from a Boot Camp</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
