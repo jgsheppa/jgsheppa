@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm James</h1>
-<h3 align="center">A full-Stack developer with an interest in security topics</h3>
+<h3 align="center">A full-stack developer with an interest in security topics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgsheppa&label=Profile%20views&color=0e75b6&style=flat" alt="jgsheppa" /> </p>
 
