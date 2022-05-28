@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgsheppa&label=Profile%20views&color=0e75b6&style=flat" alt="jgsheppa" /> </p>
 
-I’m currently learning **Django** by working on the [Avisio](https://www.avisio.ai/) API
+I enjoy creating apps with Go and JavaScript. 
 
 ### Recent Demo
 <a target="_blank" href="https://www.youtube.com/watch?v=VLFV58S7suU">Redux Dev Tools Infosec Demo on Snyk Live Stream</a>
